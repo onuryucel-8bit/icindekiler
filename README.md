@@ -1,12 +1,18 @@
 # icindekiler
 
+{ 
+  Durum::     Tam-isGorur | Yarim-Cop | Cop | Tozlanmis
+  Calisir?::  calisir | calisma ihtimali belirsiz| calisma ihtimali belirsiz
+  InsaatMuh:: header-only | cmake | make | Cmake/make yok
+}
+
 # Kutuphaneler
 
-#### [radix](https://github.com/onuryucel-8bit/Radix)
-#### [ImageLib_t1](https://github.com/onuryucel-8bit/ImageLib_t1)
-#### [MazeLib_t0](https://github.com/onuryucel-8bit/MazeLib_t0)
-#### [SimpleWavReader](https://github.com/onuryucel-8bit/SimpleWavReader)
-#### [LinearC](https://github.com/onuryucel-8bit/LinearC)
+#### [radix](https://github.com/onuryucel-8bit/Radix) {Durum::Tam-isGorur | calisir | header-only}
+#### [ImageLib_t1](https://github.com/onuryucel-8bit/ImageLib_t1) {Durum::Yarim-Cop | calisir ??? | yok}
+#### [MazeLib_t0](https://github.com/onuryucel-8bit/MazeLib_t0) {Durum::Yarim-Cop | calisir ??? |  yok}
+#### [SimpleWavReader](https://github.com/onuryucel-8bit/SimpleWavReader) {Durum::Cop | --- | ---}
+#### [LinearC](https://github.com/onuryucel-8bit/LinearC) {Durum::Cop | --- | ---}
 
 # Isletim Sistemi
 
@@ -41,14 +47,14 @@
 
 # Emu
 
-#### [Bazlama32_t0](https://github.com/onuryucel-8bit/Bazlama32_t0)
-#### [Classic_Chip8](https://github.com/onuryucel-8bit/Classic_Chip8)
-#### [CHIP-23z](https://github.com/onuryucel-8bit/CHIP-23z)
+#### [Bazlama32_t0](https://github.com/onuryucel-8bit/Bazlama32_t0) {Durum::Yarim | calisir | Cmake var}
+#### [Classic_Chip8](https://github.com/onuryucel-8bit/Classic_Chip8) {Durum::Tozlanmis | calisir ??? | Cmake/make yok}
+#### [CHIP-23z](https://github.com/onuryucel-8bit/CHIP-23z) SFML2 {Durum::Tozlanmis | calisma ihtimali belirsiz}
 
 # Oyun motoru
 
-#### [enginedxdt](https://github.com/onuryucel-8bit/enginedxdt)
+#### [enginedxdt](https://github.com/onuryucel-8bit/enginedxdt) Lua-love2d {Durum::Tozlanmis | calisma ihtimali dusuk}
 
 # Oyunlar
 
-#### [luaProjects](https://github.com/onuryucel-8bit/luaProjects)
+#### [luaProjects](https://github.com/onuryucel-8bit/luaProjects) Lua-love2d ile yapilmis basit oyunlar {Durum::Tozlanmis | calisma ihtimalleri dusuk}
