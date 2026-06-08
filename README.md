@@ -11,11 +11,11 @@
 # Isletim Sistemi
 
 #### [Gunluk_DenizAnasi_IsletimSistemi_sh0](https://github.com/onuryucel-8bit/Gunluk_DenizAnasi_IsletimSistemi_sh0)
-#### [SoftwareRenderer_t2](https://github.com/onuryucel-8bit/SoftwareRenderer_t2)
 
 # Grafik Programlama
 
 #### [TrabzonCaydanligi_sh0](https://github.com/onuryucel-8bit/TrabzonCaydanligi_sh0)
+#### [SoftwareRenderer_t2](https://github.com/onuryucel-8bit/SoftwareRenderer_t2)
 
 # Islemciler
 
