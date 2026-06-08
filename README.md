@@ -1,18 +1,22 @@
 # icindekiler
 
 { 
+
   Durum::     Tam-isGorur | Yarim-Cop | Cop | Tozlanmis
-  Calisir?::  calisir | calisma ihtimali belirsiz| calisma ihtimali belirsiz
+  
+  Calisir mi?::  calisir | belirsiz | dusuk 
+  
   InsaatMuh:: header-only | cmake | make | Cmake/make yok
+  
 }
 
 # Kutuphaneler
 
 #### [radix](https://github.com/onuryucel-8bit/Radix) {Durum::Tam-isGorur | calisir | header-only}
-#### [ImageLib_t1](https://github.com/onuryucel-8bit/ImageLib_t1) {Durum::Yarim-Cop | calisir ??? | yok}
-#### [MazeLib_t0](https://github.com/onuryucel-8bit/MazeLib_t0) {Durum::Yarim-Cop | calisir ??? |  yok}
-#### [SimpleWavReader](https://github.com/onuryucel-8bit/SimpleWavReader) {Durum::Cop | --- | ---}
-#### [LinearC](https://github.com/onuryucel-8bit/LinearC) {Durum::Cop | --- | ---}
+#### [ImageLib_t1](https://github.com/onuryucel-8bit/ImageLib_t1) {Durum::Yarim-Cop | calisir ??? | Cmake/make yok}
+#### [MazeLib_t0](https://github.com/onuryucel-8bit/MazeLib_t0) {Durum::Yarim-Cop | calisir ??? |  Cmake/make yok}
+#### [SimpleWavReader](https://github.com/onuryucel-8bit/SimpleWavReader) {Durum::Cop | belirsiz | Cmake/make yok}
+#### [LinearC](https://github.com/onuryucel-8bit/LinearC) {Durum::Cop | belirsiz | Cmake/make yok}
 
 # Isletim Sistemi
 
