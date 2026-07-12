@@ -61,5 +61,6 @@
 
 # Oyunlar
 
+#### [pong2](https://github.com/onuryucel-8bit/Pong_t1) pong + ecs {Durum::Tam | calisir | Cmake var}
 #### [pong](https://github.com/onuryucel-8bit/Pong_t0) klasik pong + lua {Durum::Tam | calisir | Cmake var}
 #### [luaProjects](https://github.com/onuryucel-8bit/luaProjects) Lua-love2d ile yapilmis basit oyunlar {Durum::Tozlanmis | calisma ihtimalleri dusuk}
