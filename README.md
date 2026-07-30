@@ -20,6 +20,7 @@
 
 # Isletim Sistemi
 
+#### [Bazlama_Yiyen_Deniz_Anasi](https://github.com/onuryucel-8bit/Bazlama_Yiyen_Deniz_Anasi) {Durum:: ... | calisir | make var}
 #### [Gunluk_DenizAnasi_IsletimSistemi_sh0](https://github.com/onuryucel-8bit/Gunluk_DenizAnasi_IsletimSistemi_sh0)
 
 # Grafik Programlama
