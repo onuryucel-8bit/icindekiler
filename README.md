@@ -30,6 +30,7 @@
 
 # Islemciler
 
+#### 27.08.2026 [Bazlama8](https://github.com/onuryucel-8bit/Bazlama8)
 #### [CPU_32bit_t3](https://github.com/onuryucel-8bit/CPU_32bit_t3)
 #### [CPU_t2](https://github.com/onuryucel-8bit/CPU_t2)
 #### [myCpuProjects](https://github.com/onuryucel-8bit/myCpuProjects)
